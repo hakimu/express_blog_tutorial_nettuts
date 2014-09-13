@@ -1,0 +1,10 @@
+{
+	"name": "blog",
+	"description": "First Express app",
+	"version": "0.0.1",
+	"dependencies": {
+		"newrelic":"*",
+		"express": "3.x",
+		"hbs":"*"
+	}
+}
